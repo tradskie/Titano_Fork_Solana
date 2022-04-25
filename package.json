@@ -11,5 +11,5 @@
     },
 "scripts": {
     "vercel-build": "npm run prepare && next build"
-  }
+  },
 }
