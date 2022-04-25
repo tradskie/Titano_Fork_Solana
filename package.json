@@ -10,6 +10,6 @@
         "mocha": "^9.0.3"
     },
     "scripts": {
-       "vercel-build": "npm run prepare && next build",
-  },
+       "vercel-build": "npm run prepare && next build"
+  }
 }
