@@ -11,12 +11,5 @@
     "chai": "^4.3.4",
     "mocha": "^9.0.3"
   },
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "vercel-build": "npm run prepare && next build",
-    "prepare": "run-script-os",
-    "prepare:windows": "@echo windows execution script"
-  }
+` (e.g. `{ "scripts": { "vercel-build": "npm run prepare && next build" } }`).
 }
