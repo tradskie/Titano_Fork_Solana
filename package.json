@@ -11,5 +11,5 @@
     "chai": "^4.3.4",
     "mocha": "^9.0.3"
   },
- (e.g. `{ "scripts": { "vercel-build": "npm run prepare && next build" } }`)
+  `{ "scripts": { "vercel-build": "npm run prepare && next build" } }`
 }
